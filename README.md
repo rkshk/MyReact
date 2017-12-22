@@ -1,2 +1,2 @@
 # MyReact
-project to practice React fundamentals
+Sample project to practice React fundamentals
